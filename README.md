@@ -1,0 +1,1 @@
+this project is all about extracting the data from smartprix which mobile comparsion website, using selinium i have extracted all mobile information and its html code, using this applying beautiful soup python library stored all its data into the dataframe, later will do the cleaning for the data and find the useful insight from it.
